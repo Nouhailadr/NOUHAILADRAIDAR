@@ -10,7 +10,7 @@ Here's some facts about me:
 </br>
 
 
-[![HitCount](https://hits.dwyl.com/MohamedHmamouch/README.svg?style=flat-square&show=unique)](http://hits.dwyl.com/MohamedHmamouch/README)
+ [![HitCount](https://hits.dwyl.com/nouhailadr/NOUHAILADRAIDAR.svg?style=flat-square)](http://hits.dwyl.com/nouhailadr/NOUHAILADRAIDAR)
 
 
 # Languages and Tools 
