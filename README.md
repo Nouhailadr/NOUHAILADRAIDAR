@@ -18,13 +18,6 @@ Here's some facts about me:
 <img align='left' alt='Python' width='50px' style='padding-right : 30px;'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 <img align='left' alt='Python' width='50px' style='padding-right : 30px;'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
 <img align='left' alt='Python' width='50px' style='padding-right : 30px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-<img align='left' alt='Python' width='50px' style='padding-right : 30px;' src=["https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" ](https://icons8.com/icon/qYfwpsRXEcpc/power-bi)/>
 <br/>   
 
 <br/>
-<br/>
-
-# 📊 My GitHub Stats
-
-<img align='left' width='47%' src="https://github-readme-stats.vercel.app/api?username=MohamedHmamouch&show_icons=true&theme=radical"/>
-<img align='left' width='47%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedHmamouch&layout=compact"/>
