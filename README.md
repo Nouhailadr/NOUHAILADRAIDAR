@@ -5,7 +5,7 @@ Here's some facts about me:
 - I'm currently a master student in Data Science & Artificial Intelligence
 - I thought i only had one passion which is reading, but that was before i met the data world
 - I'm interested in the whole package (data engineering, data science & data analytics)
-- I reviewed <b> +200 </b> books in <b> +3 languages </b> on my public instagram account
+- I reviewed <b> +200 </b> books in <b> +3 languages </b> on my public <a href="https://www.instagram.com/noureads_/">instagram account</a>
 - I love learning. Anything. Anytime. Always.
 </br>
 
@@ -13,8 +13,6 @@ Here's some facts about me:
 [![HitCount](https://hits.dwyl.com/nouhailadr/NOUHAILADRAIDAR.svg?style=flat-square)](http://hits.dwyl.com/nouhailadr/NOUHAILADRAIDAR)
 <br/> 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nouhaila-draidar-502883200/)
-<br/>
-[![Instagram](https://img.shields.io/badge/instagram-%230077B5.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/noureads_/)
 
 
 # Languages and Tools 
