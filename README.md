@@ -10,19 +10,14 @@ Here's some facts about me:
 
 
 [![HitCount](https://hits.dwyl.com/MohamedHmamouch/README.svg?style=flat-square&show=unique)](http://hits.dwyl.com/MohamedHmamouch/README)
-[![Website](https://img.shields.io/website?label=ashishpatel26&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/ashishpatel2604/)
-
-
-*` All coding project that you will find here are built to solve a real world problem.`*
-
 
 
 # Languages and Tools 
 
-<img align='left' alt='Python' width='30px' style='padding-right : 10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' />
-<img align='left' alt='Python' width='30px' style='padding-right : 10px;'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-<img align='left' alt='Python' width='30px' style='padding-right : 10px;'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-<img align='left' alt='Python' width='30px' style='padding-right : 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+<img align='left' alt='Python' width='50px' style='padding-right : 30px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' />
+<img align='left' alt='Python' width='50px' style='padding-right : 30px;'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+<img align='left' alt='Python' width='50px' style='padding-right : 30px;'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+<img align='left' alt='Python' width='50px' style='padding-right : 30px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 <img align='left' alt='Python' width='30px' style='padding-right : 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <br/>   
 
