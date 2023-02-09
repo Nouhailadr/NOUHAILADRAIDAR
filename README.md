@@ -7,7 +7,7 @@ Here's some facts about me:
 - I'm interested in the whole package (data engineering, data science & data analytics)
 </br>
 
-![](https://komarev.com/ghpvc/?username=nouhailadr&color=green)
+![](https://komarev.com/ghpvc/?username=nouhailadr&color=ff69b4&style=flat-square)
 [![HitCount](https://hits.dwyl.com/nouhailadr/NOUHAILADRAIDAR.svg?style=flat-square)](http://hits.dwyl.com/nouhailadr/NOUHAILADRAIDAR)
 
 
