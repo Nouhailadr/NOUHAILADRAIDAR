@@ -13,6 +13,8 @@ Here's some facts about me:
 [![HitCount](https://hits.dwyl.com/nouhailadr/NOUHAILADRAIDAR.svg?style=flat-square)](http://hits.dwyl.com/nouhailadr/NOUHAILADRAIDAR)
 <br/> 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nouhaila-draidar-502883200/)
+<br/>
+[![Instagram](https://img.shields.io/badge/instagram-%230077B5.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/noureads_/)
 
 
 # Languages and Tools 
