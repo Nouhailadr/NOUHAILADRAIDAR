@@ -21,6 +21,7 @@ Here's some facts about me:
 <img align='left' alt='Python' width='50px' style='padding-right : 30px;'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 <img align='left' alt='Python' width='50px' style='padding-right : 30px;'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
 <img align='left' alt='Python' width='50px' style='padding-right : 30px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+<img align='left' alt='Python' width='50px' style='padding-right : 30px;'src="http://store-images.s-microsoft.com/image/apps.9729.14405452487353876.a6612b1c-3bfc-46da-ad7e-0dd83b65757d.be9b17fe-9781-42f6-9a3e-4914ef774843"/>
 <br/>   
 
 <br/>
