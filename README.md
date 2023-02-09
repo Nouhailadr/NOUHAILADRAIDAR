@@ -9,6 +9,8 @@ Here's some facts about me:
 
 ![](https://komarev.com/ghpvc/?username=nouhailadr&color=ff69b4&style=flat-square)
 [![HitCount](https://hits.dwyl.com/nouhailadr/NOUHAILADRAIDAR.svg?style=flat-square)](http://hits.dwyl.com/nouhailadr/NOUHAILADRAIDAR)
+<br/> 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nouhaila-draidar-502883200/)
 
 
 # Languages and Tools 
