@@ -6,6 +6,7 @@ Hii, welcome in my Github profile:)
 Here's some facts about me:
 - I'm currently a master student in Data Science & Artificial Intelligence
 - I thought i only had one passion which is reading, but that was before i met the data world
+- I'm interested in the whole package (data engineering, data science & data analytics)
 </br>
 
 
