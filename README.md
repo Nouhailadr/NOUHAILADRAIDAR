@@ -23,7 +23,7 @@ Here's some facts about me:
 <img align='left' alt='Jupyter' width='70px' style='padding-right : 50px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 <img align='left' alt='PowerBI' width='70px' style='padding-right : 50px;'src="https://quickbi.io/wp-content/uploads/2021/12/PowerBI-logo-376x376-1.png"/>
 <img align='left' alt='Tableau' width='65px' style='padding-right : 45px;'src="https://cdn.shopify.com/s/files/1/0669/9866/5492/files/logo-product-tableau-icon-color.png?v=1666881264&width=1024"/>
-<img align='left' alt='Excel' width='70px' style='padding-right : 50px;'src="https://www.shareicon.net/data/512x512/2016/06/23/614099_excel_512x512.png"/>
+<img align='left' alt='Excel' width='65px' style='padding-right : 45px;'src="https://www.shareicon.net/data/512x512/2016/06/23/614099_excel_512x512.png"/>
 <img align='left' alt='Access' width='70px' style='padding-right : 50px;'src="https://images.freeimages.com/fic/images/icons/2795/office_2013_hd/2000/access.png"/>
 <br/>   
 
