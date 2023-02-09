@@ -5,6 +5,8 @@ Here's some facts about me:
 - I'm currently a master student in Data Science & Artificial Intelligence
 - I thought i only had one passion which is reading, but that was before i met the data world
 - I'm interested in the whole package (data engineering, data science & data analytics)
+- I reviewed <b> +200 </b> books in <b> +3 languages </b> on my public instagram account
+- I love learning. Anything. Anytime. Always.
 </br>
 
 ![](https://komarev.com/ghpvc/?username=nouhailadr&color=ff69b4&style=flat-square)
