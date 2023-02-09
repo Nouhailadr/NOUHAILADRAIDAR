@@ -18,7 +18,7 @@ Here's some facts about me:
 <img align='left' alt='Python' width='50px' style='padding-right : 30px;'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 <img align='left' alt='Python' width='50px' style='padding-right : 30px;'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
 <img align='left' alt='Python' width='50px' style='padding-right : 30px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-<img align='left' alt='Python' width='30px' style='padding-right : 10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align='left' alt='Python' width='50px' style='padding-right : 30px;' src=["https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" ](https://icons8.com/icon/qYfwpsRXEcpc/power-bi)/>
 <br/>   
 
 <br/>
