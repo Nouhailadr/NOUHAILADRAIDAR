@@ -17,11 +17,14 @@ Here's some facts about me:
 
 # Languages and Tools 
 
-<img align='left' alt='Python' width='50px' style='padding-right : 30px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' />
-<img align='left' alt='Python' width='50px' style='padding-right : 30px;'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-<img align='left' alt='Python' width='50px' style='padding-right : 30px;'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-<img align='left' alt='Python' width='50px' style='padding-right : 30px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-<img align='left' alt='Python' width='50px' style='padding-right : 30px;'src="http://store-images.s-microsoft.com/image/apps.9729.14405452487353876.a6612b1c-3bfc-46da-ad7e-0dd83b65757d.be9b17fe-9781-42f6-9a3e-4914ef774843"/>
+<img align='left' alt='Python' width='70px' style='padding-right : 30px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' />
+<img align='left' alt='Python' width='70px' style='padding-right : 50px;'src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/sql-server-icon.png" />
+<img align='left' alt='Python' width='70px' style='padding-right : 50px;'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+<img align='left' alt='Python' width='70px' style='padding-right : 50px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+<img align='left' alt='Python' width='70px' style='padding-right : 50px;'src="https://quickbi.io/wp-content/uploads/2021/12/PowerBI-logo-376x376-1.png"/>
+<img align='left' alt='Python' width='65px' style='padding-right : 45px;'src="https://cdn.shopify.com/s/files/1/0669/9866/5492/files/logo-product-tableau-icon-color.png?v=1666881264&width=1024"/>
+<img align='left' alt='Python' width='70px' style='padding-right : 50px;'src="https://media.istockphoto.com/id/1155111978/vector/microsoft-office-icon.jpg?b=1&s=612x612&w=0&k=20&c=p-C0uZ17POx2pBP07PE37wrA5rdLx9_nc3EPCShszSM="/>
+<img align='left' alt='Python' width='70px' style='padding-right : 50px;'src="https://images.freeimages.com/fic/images/icons/2795/office_2013_hd/2000/access.png"/>
 <br/>   
 
 <br/>
