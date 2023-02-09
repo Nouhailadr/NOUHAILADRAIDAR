@@ -1,7 +1,5 @@
 # NOUHAILADRAIDAR
 
-# About Me
-
 Hii, welcome in my Github profile:)
 Here's some facts about me:
 - I'm currently a master student in Data Science & Artificial Intelligence
@@ -9,8 +7,8 @@ Here's some facts about me:
 - I'm interested in the whole package (data engineering, data science & data analytics)
 </br>
 
-
- [![HitCount](https://hits.dwyl.com/nouhailadr/NOUHAILADRAIDAR.svg?style=flat-square)](http://hits.dwyl.com/nouhailadr/NOUHAILADRAIDAR)
+![](https://komarev.com/ghpvc/?username=nouhailadr&color=green)
+[![HitCount](https://hits.dwyl.com/nouhailadr/NOUHAILADRAIDAR.svg?style=flat-square)](http://hits.dwyl.com/nouhailadr/NOUHAILADRAIDAR)
 
 
 # Languages and Tools 
