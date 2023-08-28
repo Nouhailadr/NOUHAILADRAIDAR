@@ -5,7 +5,7 @@ Here's some facts about me:
 - I'm currently a master student in Data Science & Artificial Intelligence
 - I thought i only had one passion which is reading, but that was before i met the data world
 - I'm interested in the whole package (data engineering, data science & data analytics)
-- I reviewed <b> +200 </b> books in <b> +3 languages </b> on my public <a href="https://www.instagram.com/noureads_/">instagram account</a>
+- I reviewed <b> +200 </b> books in <b> +3 languages </b> on my public <a href="https://www.instagram.com/noureads__/">instagram account</a>
 - I love learning. Anything. Anytime. Always.
 </br>
 
